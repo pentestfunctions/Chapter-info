@@ -1,0 +1,290 @@
+Overview
+
+Chapter #1: What is a computer?
+Your computer and how it works
+What is a Motherboard?
+What is a CPU?
+What is a GPU?
+What is RAM?
+What is a PSU?
+What is a BIOS?
+What is a Hard Drive?
+What are PCIe lanes?
+External Devices
+Airflow and heat management
+Computer related units
+Laptops, Desktops and other devices
+Benchmarking & Resourcing components
+Additional Devices
+How does Computer Hardware Work - Extra
+
+Chapter #2: Windows Fundamentals, Terminology, Keyboard Keys
+File Structure in Windows
+Basic Windows Utilities
+Important symbols
+Keyboard Shortcuts
+Logic Gates and Heat Production
+Network Introduction
+Internet Safety and File Integrity
+Windows Update
+Installing Drivers
+Customization/Personalization of Windows
+File Backup
+Cool things you can do in Modern Windows
+
+
+Chapter #3: Note keeping
+Obsidian
+Github
+Steps Recorder, Snipping tool
+
+Chapter #4: Protecting yourself first.
+Defanging a URL
+IP Loggers
+VPN and Logging
+Online Information Exposure
+Exif Data in Images
+Facial Recognition Programs/Websites
+Browser Fingerprinting
+Cookie Tracking
+Device Access Through Applications
+Keyboard Eavesdropping
+Infected Files/File Extensions
+Sandboxing
+Malicious Software Updates
+Typosquatting
+Social Engineering
+Phishing
+Targeting Friends & Family
+RFID Cloning
+Rubber Duckies
+Physical Security
+WiFi Cloning and Man in the Middle Attacks
+Time Zones and User Activity Tracking
+Vulnerable Associates
+Harassment Campaigns
+EGO Exposure
+Sim Swapping
+Rabbit Holes and False Traps
+Voice Cloning (Vishing)
+IP History and Registration IP vs Most Recent
+Password Reuse and Storage
+Out-of-Date Software Exposure
+
+Chapter #1: Basics of Network Communication and Security
+How the Internet Works and ISPs
+Ports and IP Addresses
+Interacting with Your Router
+Public vs Private IPs (LAN vs WAN)
+TCP vs UDP
+How ISPs work
+Network types to remember
+WiFi vs Other Wireless Technologies
+
+Chapter #2: Network Topologies and Internet Connection Mediums
+Network Topologies
+Physical Internet Mediums
+Wireless Communication Mediums
+What is the OSI model?
+
+Chapter #3: Subnetting
+What is Subnetting?
+CIDR (Classless Inter-Domain Routing)
+Subnet Masks
+How Subnetting Works
+
+Chapter #4: Explaining IP addresses & handshakes
+IP Addresses: The Basics
+Network Classes
+MAC addresses & Device identification
+SYN > SYN ACK > ACK
+
+Revision section before entering basic coding
+At this section the user should have (More or less in order)
+
+
+Chapter #1: Getting to know Visual Studio Code
+Downloading & Setting up Visual Studio Code
+
+Chapter #2: Using your computer - Coding beginnings (Batch)
+Introduction to Windows terminal
+What is batch scripting
+Creating your first BAT file
+
+Chapter #3: Using your computer - Coding beginnings (PowerShell)
+Introduction to PowerShell
+What is Powershell scripting
+Creating your first PS1 file
+
+Chapter #4: Using your computer - Coding beginnings (Python)
+Introduction to Python
+What is Python scripting
+Creating your first PY file
+
+Chapter #5: Understanding websites and making our first (HTML/CSS/JS)
+Introduction to Web Development
+
+
+Chapter #1: Hacking, Penetration Testing, and Cybersecurity
+Definitions
+Frequently asked questions (FAQ)
+
+Now... Onto the fun stuff.
+
+Chapter #2: Broad Basics - Setting up your first Virtual Machine
+Enabling Virtualization
+Hyper-V (Virtual Machines)
+Virtualbox (Virtual Machines)
+Vmware Workstation (Virtual Machines)
+Using Linux for the first time
+Linux Commands
+Introduction to Kali Linux
+Learning Linux through Customization
+Shells (Bash vs ZSH)
+
+Chapter #1: Ethical Hacking and Penetration Testing Basics
+Pentesting Methodology
+PASSIVE WEBSITE OSINT
+INTERACTIVE WEBSITE OSINT
+Web Application & Network Security Fundamentals
+Wireless Network Security Basics
+Cryptography Basics and Public Key Infrastructure (PKI)
+Security in the Internet of Things (IoT) Basics
+Basic Security for Cloud Services (AWS, Azure, GCP)
+Introduction to Malware and Basic Malware Analysis
+Introduction to Intrusion Detection and Prevention Systems (IDPS)
+Basics of Secure Coding Practices
+Network Protocols and Packet Analysis Basics
+Security Policies and Compliance Basics
+Identity and Access Management (IAM) Basics
+Basic Network Traffic Analysis and Anomaly Detection
+Introduction to Ethical Dilemmas in Cybersecurity
+Basic Cyber Threat Intelligence
+Introduction to Artificial Intelligence and Machine Learning in Security
+Basics of Security Information and Event Management (SIEM)
+Basic Data Protection and Privacy Laws
+Introduction to Technical Writing and Documentation
+Order of operations - My guidelines
+
+Chapter #2: Intermediate Skills and Knowledge
+Advanced Network Security and Protocols
+Intermediate Ethical Hacking and Penetration Testing
+Web Application Security Intermediate
+Intermediate Malware Analysis and Reverse Engineering
+Cryptography Intermediate
+Intermediate Security for Cloud Services (AWS, Azure, GCP)
+Intermediate Secure Coding Practices
+
+Chapter #3: Advanced Skills & Specializations
+Introduction to Advanced Methodologies & Ideas
+Advanced Ethical Hacking and Penetration Testing
+Web Application Security Advanced
+Radio Frequency Analysis, Rogue Devices & Securing Wireless Infrastructures
+Advanced Malware Analysis and Reverse Engineering
+Cryptography Advanced
+Security in the Internet of Things (IoT) Advanced
+Advanced Security for Cloud Services (AWS, Azure, GCP)
+Advanced Network Traffic Analysis and Anomaly Detection
+Advanced Secure Coding Practices
+Advanced Intrusion Detection and Prevention Systems (IDPS)
+Advanced Security Policies and Compliance
+Advanced Identity and Access Management (IAM)
+Advanced Cyber Threat Intelligence
+Advanced Security Information and Event Management (SIEM)
+Advanced Cybersecurity Law and Regulations
+Advanced Persistent Threats (APTs)
+Zero Trust Security
+Network Segmentation and Micro-Segmentation
+Incident Response and Digital Forensics
+Threat Modeling and Risk Assessment
+Red Team vs. Blue Team Exercises
+Secure DevOps and DevSecOps
+Mobile Device Security
+Threat Hunting
+Cloud-native Security
+Container Security
+Threat Intelligence Sharing and Analysis
+Social Engineering and Manipulation
+Wireless Network Penetration Testing
+Hardware Security and Embedded Systems
+Industrial Control Systems (ICS) Security
+VoIP and Voice Network Security
+Secure Web Services and APIs
+Incident Response Playbooks
+Advanced Firewall and IDS/IPS Configuration
+DDoS Mitigation and Prevention
+Blockchain and Cryptocurrency Security
+Ransomware Defense and Recovery
+Critical Infrastructure Protection
+DNS Security and DNSSEC
+Secure File Transfer and Data Encryption
+Digital Rights Management (DRM)
+Quantum Computing and Post-Quantum Cryptography
+Security in 5G and Beyond
+Security in Emerging Technologies (AI, IoT, 5G)
+Security for Big Data and Analytics
+Security for Hadoop and NoSQL Databases
+Biometric Authentication and Identity Verification
+Secure Coding for Mobile Applications
+Threat Assessment and Security Auditing
+
+Chapter #1: Professional Development and Career Skills
+Building a Personal Brand in Cybersecurity
+Freelancing and Consulting
+Proposal Writing and Contract Negotiation
+Writing Effective Penetration Test Reports
+Communicating Findings to Non-Technical Stakeholders
+Joining Professional Networks and Forums
+Keeping Skills Up-To-Date
+Understanding Business Processes and Objectives
+Client Relationship Management
+Exploring Different Revenue Streams
+Building Passive Income Streams
+Security Leadership and Management
+Effective Communication and Presentation Skills
+Building and Managing a Cybersecurity Team
+Stakeholder Engagement and Management
+Negotiation Skills for Security Professionals
+Understanding of Psychology for Social Engineering and Human Factors
+Crisis Management and Communication
+Career Pathways in Cybersecurity
+Mentorship and Coaching
+Building a Portfolio
+Interview Skills and Resume Building
+Ethical Dilemmas in Cybersecurity
+Creating Security Documentation
+Supply Chain Security
+Insider Threat Detection
+Nation-State Actors and Advanced Threats
+Developing Training Programs
+Educational Outreach
+Promoting Diversity in Cybersecurity
+Addressing Unconscious Bias
+Cyber Threats in Different Geopolitical Contexts
+Working Effectively Across Cultures
+Understanding Global Cyber Norms
+Stress Management and Mental Health in Cybersecurity
+Building Resilience in Cybersecurity Roles
+Addressing Burnout and Promoting Work-Life Balance
+
+Chapter #2: Real-World Application and Continuous Learning
+Building Your Own Lab/Testing Environment
+Hands-On Labs and Simulated Environments
+Capture The Flag (CTF) Challenges
+Bug Bounty Programs and Platforms
+Real-World Projects and Volunteering
+Internships and Apprenticeships
+Online Courses and Tutorials
+Reading and Research
+Professional Certifications
+Community Engagement
+Networking with Professionals
+Attending Conferences and Workshops
+Learning from Real Incidents
+Cross-Discipline Learning
+Teaching and Mentoring
+Thinks to make sure we fit in somewhere
+
+
+Shit to add somewhere (DO NOT DELETE)
+Ideas for mobile phone section
