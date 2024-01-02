@@ -8,6 +8,7 @@ Notes for self learners:
 
 **Note:
 - My course chapter list has changed a lot since this but will still be invaluable in your learning.
+- Use https://obsidian.md and create folders, add images and files for each.
 
 Chapter #1: What is a computer?
 Your computer and how it works
