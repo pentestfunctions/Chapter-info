@@ -1,5 +1,14 @@
 Overview
 
+Notes for self learners: 
+- Ask yourself these questions:
+1. How many types of x are there
+2. What is a common misconception when it comes to x
+3. What are some cool usages of x most people don't know about
+
+**Note:
+- My course chapter list has changed a lot since this but will still be invaluable in your learning.
+
 Chapter #1: What is a computer?
 Your computer and how it works
 What is a Motherboard?
